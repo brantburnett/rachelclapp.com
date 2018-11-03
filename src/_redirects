@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://quizzical-roentgen-9c9413.netlify.com/* http://rachelclapp.com/:splat 301!
+https://quizzical-roentgen-9c9413.netlify.com/* https://rachelclapp.com/:splat 301!
